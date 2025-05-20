@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132-010x
+#  Project P5: Linked List
+
+courseName=CMSC132-010x
+semester=202401
+projectNumber=P5
+courseKey=c125b6fcc351399f
+authentication.type=cas
+baseURL=https://submit.cs.umd.edu:443/spring2024
+submitURL=https://submit.cs.umd.edu:443/spring2024/eclipse/SubmitProjectViaEclipse
